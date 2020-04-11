@@ -17,3 +17,5 @@
 
 # Next Step For T-Home-Finder
 - Implement or convert the design into code 
+
+![T-Home-Finder Design](T-Home-App.jpg)
